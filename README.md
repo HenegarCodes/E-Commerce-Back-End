@@ -12,6 +12,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Issues](#issues)
 
 ## Installation
 
@@ -64,3 +65,7 @@ If you followed tutorials, include links to those here as well.
 ## License
 
 Please see license in code. It is an MIT License
+
+## Issues
+
+There is one PUT request if you use INsomnia that wont load you will see it in the videos above. This bug is being worked on currently to be fixed.
