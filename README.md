@@ -41,10 +41,16 @@ npm run seed
 
 npm start
 
+Walkthroughs:
+[database setupwebm.webm](https://github.com/HenegarCodes/E-Commerce-Back-End/assets/78831747/dfecb008-e277-4939-aad6-69e0836e1068)
 
+[GET all.webm](https://github.com/HenegarCodes/E-Commerce-Back-End/assets/78831747/73518d3c-1554-4928-9981-49d6e65c74fd)
 
+[Get All by ID.webm](https://github.com/HenegarCodes/E-Commerce-Back-End/assets/78831747/c60c7042-3ef0-40b2-bc8a-9872cf8720e6)
 
+[Category-post-put-delete.webm](https://github.com/HenegarCodes/E-Commerce-Back-End/assets/78831747/3afa6ce6-b3eb-4d8e-9581-a7ee6b39084b)
 
+[POST-update-delete-tag-category.webm.zip](https://github.com/HenegarCodes/E-Commerce-Back-End/files/13446101/POST-update-delete-tag-category.webm.zip)
 
 
 ## Credits
